@@ -1,8 +1,8 @@
 {
   "name": "tfrconsultoria",
-  "title": "Tfr-consultoria",
+  "title": "TFR-Agricola",
   "version": "1.0.0",
-  "homepage": "http://tfrconsultoria.com.br/",
+  "homepage": "http://tfrconsultoria.com",
   "author": "TFR - Consultoria Agrícola",
   "license": {
     "type": "MIT"
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/EngenheJr/tfr"
+    "url": "https://github.com/leosl123/tfr"
   }
 }
